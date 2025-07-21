@@ -13,10 +13,7 @@
 ## ⚙️ Установка и настройка
 
 ### 1. Склонируйте репозиторий:
-   ```bash
-   git clone https://github.com/ваш-username/love_bot.git
-   cd love_bot
-   ```
+
 ### 2. Установите необходимые зависимости:
   ```bash
   pip install requests pytz
